@@ -7,7 +7,7 @@
 
 ```js
 const aboutMe = {
-  pronouns: "She" | "Her",
+  pronouns: ["She", "Her", "Ella"]
   shortName : "Evita",
   linkedinUrl: "https://www.linkedin.com/in/evange-fernandez/",
   technologies: {
@@ -36,3 +36,9 @@ const aboutMe = {
 </a>
 
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
+
+### Get in touch with me 📪
+<p align="center">
+    <a href="https://www.linkedin.com/in/evange-fernandez/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:fernandez.eva.tdf@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+</p>
