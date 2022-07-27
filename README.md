@@ -9,7 +9,6 @@
 const aboutMe = {
   pronouns: ["She", "Her", "Ella"]
   shortName : "Evita",
-  linkedinUrl: "https://www.linkedin.com/in/evange-fernandez/",
   technologies: {
     frontEnd: {
       js: ["react"],
