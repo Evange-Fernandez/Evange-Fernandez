@@ -16,11 +16,11 @@ const aboutMe = {
       css: ["materialUI", "bootstrap"]
     },
     backEnd: {
-      js: ["node", "express", "passport", "JWT"]
+      js: ["node", "express", "passport", "jwt"]
     },
     databases: ["mongodb", "postgres"],
-    tools: ["GIT", "GitHub", "VSC", "postman"],
-    lookingForwardToLearn: ["nextJs", "AWS", "googleCloud", "reactNative"]
+    tools: ["git", "gitHub", "vsc", "postman"],
+    lookingForwardToLearn: ["nextJs", "aws", "googleCloud", "reactNative"]
     hobbies: [
     "music", "oilOnCanvas", "watercolor", "yoga", "paddle"
   ],
