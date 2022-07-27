@@ -19,7 +19,7 @@ const aboutMe = {
       js: ["node", "express", "passport", "JWT"]
     },
     databases: ["mongodb", "postgres"],
-    tools: ["GIT", "GitHub", "VSC"],
+    tools: ["GIT", "GitHub", "VSC", "postman"],
     lookingForwardToLearn: ["nextJs", "AWS", "googleCloud", "reactNative"]
     hobbies: [
     "music", "oilOnCanvas", "watercolor", "yoga", "paddle"
