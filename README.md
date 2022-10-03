@@ -10,12 +10,13 @@ const aboutMe = {
   pronouns: ["She", "Her", "Ella"]
   shortName : "Evita",
   technologies: {
+    languaje: "javaScript",
     frontEnd: {
-      js: ["react"],
-      css: ["materialUI", "bootstrap"]
+      js: ["reactJs"],
+      css: ["materialUI", "bootstrap", "css"]
     },
     backEnd: {
-      js: ["node", "express", "passport", "jwt"]
+      js: ["nodeJs", "express", "jwt"]
     },
     databases: ["mongodb", "postgres"],
     tools: ["git", "gitHub", "vsc", "postman"],
