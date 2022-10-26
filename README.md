@@ -20,7 +20,7 @@ const aboutMe = {
     },
     databases: ["mongodb", "postgres"],
     tools: ["git", "gitHub", "vsc", "postman"],
-    lookingForwardToLearn: ["nextJs", "typeScript", "aws", "googleCloud"]
+    lookingForwardToLearn: ["nextJs", "typeScript"]
     hobbies: [
     "music", "oilOnCanvas", "watercolor", "yoga", "paddle"
   ],
