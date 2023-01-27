@@ -20,11 +20,11 @@ const aboutMe = {
     },
     databases: ["mongodb", "postgres", "mysql"],
     tools: ["git", "gitHub", "vsc", "postman", "insomia"],
-    lookingForwardToLearn: ["nextJs", "typeScript"]
+    lookingForwardToLearn: ["nestJs", "typeScript"]
     hobbies: [
     "music", "oilOnCanvas", "watercolor", "yoga", "paddle"
   ],
-  challenge: "I'm currently learning nextJs and typeScript"
+  challenge: "I'm currently learning nestJs and typeScript"
 };
 ```
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
