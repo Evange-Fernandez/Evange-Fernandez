@@ -7,24 +7,21 @@
 
 ```js
 const aboutMe = {
-  pronouns: ["She", "Her", "Ella"]
   shortName : "Evita",
   technologies: {
-    languaje: "javaScript",
+    languaje: [ "php", "java", "javaScript"],
     frontEnd: {
       js: ["reactJs"],
       css: ["materialUI", "bootstrap", "css"]
     },
-    backEnd: {
-      js: ["nodeJs", "express", "jwt"]
-    },
+    backEnd: ["laravel", "nodeJs", "express", "jwt"],
     databases: ["mongodb", "postgres", "mysql"],
-    tools: ["git", "gitHub", "vsc", "postman", "insomia"],
+    tools: ["git", "gitHub", "vsc", "postman", "jira", "bitbucket", "confluence"],
     lookingForwardToLearn: ["nestJs", "typeScript"]
     hobbies: [
     "music", "oilOnCanvas", "watercolor", "yoga", "paddle"
   ],
-  challenge: "I'm currently learning nestJs and typeScript"
+  challenge: "I'm currently learning Quality Control Testing + Automation"
 };
 ```
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
