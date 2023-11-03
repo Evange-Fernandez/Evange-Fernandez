@@ -21,7 +21,7 @@ const aboutMe = {
     hobbies: [
     "music", "oilOnCanvas", "watercolor", "yoga", "paddle"
   ],
-  challenge: "I'm currently learning Quality Control Testing + Automation"
+  challenge: "I'm currently learning Quality Control Testing + Automation at Globant University"
 };
 ```
 <img src="https://user-images.githubusercontent.com/99969703/181125763-0462801a-5deb-4d0b-9b58-73236698cb47.gif" width="100%">
